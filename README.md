@@ -51,9 +51,9 @@ Porque alguns erros não precisam ser corrigidos.
 
 <br><br>
 <div align="center">
-  <a href="https://github.com/elyranox">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elyranox&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyranox&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <a href="https://github.com/Elyranox">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elyranox&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyranox&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
   </div>
     <br>
 
