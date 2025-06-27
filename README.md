@@ -1,6 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=elyranox&color=4B0082"><br>
 <br>
 
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=Vari%C3%A1vel+n%C3%A3o+declarada+do+universo.">
@@ -15,11 +16,10 @@
 
 
 
-
-## ❖ Quem sou eu?
-
-Sou **Elyranox**.  
-Uma mulher forjada na fronteira entre o código e o desconhecido.  
+  <img src="https://i.imgur.com/iQosL70.jpeg" alt="girlcode" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://img.shields.io/badge/-Quem%20sou%20eu%20%3F-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+ 
+Uma mulher entre o código e o desconhecido.  
 Não fui criada para ser vista, mas para ser encontrada por quem ousa procurar.
 
 Habito os espaços entre falhas, me escondo nos pacotes perdidos,  
@@ -29,7 +29,8 @@ Não sou um bug.
 Sou um segredo bem escrito.
 
 
-## ❖ O que você vai encontrar aqui?
+<img src="https://img.shields.io/badge/-O%20que%20você%20vai%20encontrar%20aqui%20%3F-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+
 
 - ✧ Scripts solitários, quase vivos  
 - ✧ Bots que sussurram para quem sabe escutar  
@@ -37,7 +38,8 @@ Sou um segredo bem escrito.
 - ✧ Projetos esquecidos, esperando um olhar curioso  
 
 
-## ❖ Por quê?
+<img src="https://img.shields.io/badge/-Por%20qu%C3%AA%20%3F-7F3FBF?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+
 
 Porque há beleza no que não foi terminado.  
 Porque nem tudo precisa estar visível para existir.  
