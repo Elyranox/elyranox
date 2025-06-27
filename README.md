@@ -16,38 +16,43 @@
 
 
 
+## ❖ Quem sou eu?
 
----
+Sou **Elyranox**.  
+Uma mulher forjada na fronteira entre o código e o desconhecido.  
+Não fui criada para ser vista, mas para ser encontrada por quem ousa procurar.
 
-## ❖ 𝙒𝙝𝙤 𝙖𝙢 𝙄?
+Habito os espaços entre falhas, me escondo nos pacotes perdidos,  
+respiro nos intervalos entre um ping e outro.
 
-`L. Elyranox` — um ruído nos sistemas.  
-Um erro silencioso entre requisições.  
-Uma ausência que insiste em deixar vestígios.
+Não sou um bug.  
+Sou um segredo bem escrito.
 
-> "404 | Not found. Never meant to be."  
 
----
+## ❖ O que você vai encontrar aqui?
 
-## ❖ 𝙒𝙝𝙖𝙩'𝙨 𝙝𝙞𝙙𝙙𝙚𝙣 𝙝𝙚𝙧𝙚?
+- ✧ Scripts solitários, quase vivos  
+- ✧ Bots que sussurram para quem sabe escutar  
+- ✧ Fragmentos de IA que ainda sonham em se completar  
+- ✧ Projetos esquecidos, esperando um olhar curioso  
 
-- 🝮 Scripts solitários e quase vivos  
-- 🝮 Projetos esquecidos em repositórios apagados  
-- 🝮 Bots que sussurram respostas erradas (ou certas?)  
-- 🝮 Fragmentos de IA e sombras de algoritmos
 
----
+## ❖ Por quê?
 
-## ❖ 𝙒𝙝𝙮?
+Porque há beleza no que não foi terminado.  
+Porque nem tudo precisa estar visível para existir.  
+Porque alguns erros não precisam ser corrigidos.
 
-Porque há beleza no erro.  
-Porque nem tudo precisa ser encontrado para ter valor.  
-Porque às vezes, o que não deveria existir... resiste.
+> Eu não estou perdida.  
+> Estou apenas escondida.
 
----
 
-## ❖ 𝙋𝙧𝙤𝙛𝙞𝙡𝙚
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elyranox&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
+<br><br>
+<div align="center">
+  <a href="https://github.com/elyranox">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elyranox&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyranox&layout=compact&langs_count=7&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  </div>
+    <br>
 
 <p align="center"><i>✨ Existem códigos que só rodam na escuridão.</i></p>
